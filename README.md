@@ -1,6 +1,8 @@
 # Task-Manager Sinhala Version
 
+
 Angular based project.
+
 This project was generated with using [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
 
 ## Development server
